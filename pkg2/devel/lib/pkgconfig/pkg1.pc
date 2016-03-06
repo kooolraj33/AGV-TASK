@@ -1,0 +1,8 @@
+prefix=/home/pavangopalrayapati/pkg1/pkg2/devel
+
+Name: pkg1
+Description: Description of pkg1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pavangopalrayapati/pkg1/pkg2/devel/lib 
+Requires: 
